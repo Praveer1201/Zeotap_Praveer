@@ -1,0 +1,6 @@
+index,CustomerID,TotalSpending,PurchaseFrequency,RecencyDays,TopCategory
+0,C0001,3354.5200000000004,5,55,Electronics
+1,C0002,1862.74,4,25,Clothing
+2,C0003,2725.38,4,125,Home Decor
+3,C0004,5354.88,8,4,Books
+4,C0005,2034.24,3,54,Electronics
